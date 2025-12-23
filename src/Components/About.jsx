@@ -50,7 +50,7 @@ const About = () => {
   )
 }
 
-https://www.youtube.com/watch?v=OBi8665frGM
-https://www.youtube.com/watch?v=xfOT2elC2Ok
+
+
 
 export default About
